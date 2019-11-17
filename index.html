@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Work+Sans&display=swap" rel="stylesheet">
+
+  <title>Recipes</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    body {
+      font-family: 'Work Sans', sans-serif;
+    }
+
+    .wrapper {
+      max-width: 1024px;
+      margin: 0 auto;
+    }
+
+    a {
+      color: currentColor;
+      text-decoration: underline;
+    }
+
+    a:hover {
+      text-decoration: none;
+    }
+
+    h1,
+    h2,
+    th {
+      font-weight: normal;
+      font-family: 'Playfair Display', serif;
+    }
+
+    h1 .subtitle {
+      display: block;
+      font-size: 0.3em;
+      font-family: 'Work Sans', sans-serif;
+    }
+
+    h1 .subtitle span + span::before {
+      content: '/';
+      margin: 0 0.5em;
+    }
+
+    h1 {
+      font-size: 3rem;
+      text-align: center;
+      margin: 5rem 2rem 2rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid black;
+    }
+
+    h2 {
+      font-size: 2rem;
+      margin: 2rem 0 1rem;
+    }
+
+    li {
+      margin: 1rem 0 1rem 2rem;
+    }
+
+    li.done {
+      opacity: 0.5;
+    }
+
+    li,
+    p {
+      line-height: 1.2;
+    }
+
+    .home p,
+    .home table {
+      max-width: 640px;
+      margin: 0 auto;
+      margin-bottom: 1em;
+    }
+
+    .home table {
+      width: 100%;
+    }
+
+    .home table th {
+      text-align: left;
+      font-size: 1.3rem;
+    }
+
+    .home table th:first-child,
+    .home table td:first-child {
+      width: 100px;
+      text-align: center;
+    }
+
+    .opening {
+      display: flex;
+      flex-direction: row;
+    }
+
+    .opening .ingredients {
+      width: 33%;
+      min-width: 400px;
+    }
+
+    .opening .image {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 64px;
+    }
+
+    .opening .image img {
+      max-width: 100%;
+      border-radius: 3px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="wrapper">
+    <div class="home">
+  <h1>Recipe Index</h1>
+
+<p>A collection of recipes I have cooked. Or, noteworthy ones, at least. I usually start at one (or more) sources and modify the recipe to what I have, want to eat, or want to taste.</p>
+
+<p>Ratings are on a 1-10 scale. 1 indicates it&rsquo;s terrible, 5 is decent to eat, nothing special, and 10 is S-tier. There&rsquo;ll a bias towards higher scores just because I might not bother writing down mediocre recipes.</p>
+
+<p>You can see this site on <a href="https://recipes.peet.io">recipes.peet.io</a>, or by cloning this repo and running <code>go run ./</code>.</p>
+
+
+  <table>
+    <thead>
+      <tr>
+        <th>Rating</th>
+        <th>Name</th>
+      </tr>
+    </thead>
+    <tbody>
+      
+      <tr>
+        <td>7</td>
+        <td><a href="chinese-chili.html">Chinese Chili</a></td>
+      </tr>
+      
+    </tbody>
+  </table>
+</div>
+
+  </div>
+
+  <script>
+    const toggleClass = (el, cls) => el.classList.contains(cls) ? el.classList.remove(cls) : el.classList.add(cls);
+    for (const el of document.querySelectorAll('li')) {
+      el.addEventListener('click', () => toggleClass(el, 'done'));
+    }
+  </script>
+</body>
+
+</html>

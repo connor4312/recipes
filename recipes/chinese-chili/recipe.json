@@ -1,0 +1,83 @@
+{
+  "$schema": "../../support/recipe-schema.json",
+  "name": "Chinese Chili",
+  "rating": 7,
+  "notes": [
+    "Did not have Szechuan pepper at the time. Used 0.5 tbsp coriander seed and 1 tbsp pepper instead, turned out well",
+    "Added 1c dried (rehydrated) pinto beans",
+    "Threw ingredients",
+    "Very spicy with the 2x jalapeno and habanero. Perhaps use a Thai pepper or Serano instead next time. If making for company, just 2x jalapenos would be fine"
+  ],
+  "source": "https://cooking.nytimes.com/recipes/1016019-chinese-chili",
+  "ingredients": [
+    {
+      "ingredient": "pounds lean brisket",
+      "quantity": "2"
+    },
+    {
+      "ingredient": "cup soy sauce, more to taste",
+      "quantity": "¼"
+    },
+    {
+      "ingredient": "cup hoisin sauce",
+      "quantity": "¼"
+    },
+    {
+      "ingredient": "large onions, finely chopped",
+      "quantity": "2"
+    },
+    {
+      "ingredient": "large green bell pepper, seeded and finely chopped",
+      "quantity": "1"
+    },
+    {
+      "ingredient": "jalapeños, seeded and slivered",
+      "quantity": "2"
+    },
+    {
+      "ingredient": "habanero or other hot fresh chile, seeded and slivered",
+      "quantity": "1"
+    },
+    {
+      "ingredient": "cloves garlic, minced",
+      "quantity": "4"
+    },
+    {
+      "ingredient": "2-inch piece fresh ginger, peeled and minced",
+      "quantity": "1"
+    },
+    {
+      "ingredient": "tablespoon Sichuan peppercorns, crushed in a mortar",
+      "quantity": "1"
+    },
+    {
+      "ingredient": "tablespoon five-spice powder",
+      "quantity": "1"
+    },
+    {
+      "ingredient": "ounces beer, preferably amber ale",
+      "quantity": "12"
+    },
+    {
+      "ingredient": "14-ounce can whole San Marzano tomatoes, crushed",
+      "quantity": "1"
+    },
+    {
+      "ingredient": "tablespoon rice vinegar",
+      "quantity": "1"
+    },
+    {
+      "ingredient": "Chinese hot chile oil",
+      "quantity": ""
+    },
+    {
+      "ingredient": "tablespoons finely chopped cilantro",
+      "quantity": "2"
+    }
+  ],
+  "steps": [
+    "Reserve about a tablespoon of the fat from the brisket and cut the meat in 1/2-inch dice. Lightly brown the fat on medium-high in a large sauté pan to slick the bottom. Add meat and cook until it loses its redness. Transfer meat and any juices to a bowl. Toss with soy sauce and hoisin.",
+    "Reduce heat to low, add onions, bell pepper, jalapeños, habanero, garlic and ginger and cook until softened. Add Sichuan peppercorns and five spice, stir, then add ale. Bring to a simmer. Add tomatoes. Return meat and juices to the pan. Cover and simmer an hour and a half, until the meat is tender.",
+    "Stir in vinegar. Mixture should be somewhat soupy; add some water if needed. Drizzle in chile oil to taste. Adjust salt with soy sauce. Garnish with cilantro and serve."
+  ]
+}

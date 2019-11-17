@@ -1,0 +1,43 @@
+<h1>{{.Name}}
+  <small class="subtitle">
+    {{if .Rating}}
+    <span>Rated {{.Rating}}/10</span>
+    {{end}}
+    {{if .Source}}
+    <span><a href="{{.Source}}">{{getOrigin .Source}}</a></span>
+    {{end}}
+  </small>
+</h1>
+
+
+<div class="opening">
+  <div class="ingredients">
+    <h2>Ingredients</h2>
+    <ul>
+      {{range .Ingredients }}
+      <li>{{.Quantity}} {{.Ingredient}}</li>
+      {{end}}
+    </ul>
+  </div>
+  {{if .ImagePath}}
+  <div class="image">
+    <img src="{{.ImageName}}" alt="{{.Name}}" />
+  </div>
+  {{end}}
+</div>
+
+<h2>Steps</h2>
+<ol>
+  {{range .Steps }}
+  <li>{{.}}</li>
+  {{end}}
+</ol>
+
+{{if .Notes}}
+<h2>Notes</h2>
+<ol>
+  {{range .Notes }}
+  <li>{{renderMd .}}</li>
+  {{end}}
+</ol>
+{{end}}

@@ -1,0 +1,20 @@
+<div class="home">
+  {{renderMd .Readme}}
+
+  <table>
+    <thead>
+      <tr>
+        <th>Rating</th>
+        <th>Name</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{range .Recipes}}
+      <tr>
+        <td>{{.Rating}}</td>
+        <td><a href="{{.PageName}}">{{.Name}}</a></td>
+      </tr>
+      {{end}}
+    </tbody>
+  </table>
+</div>

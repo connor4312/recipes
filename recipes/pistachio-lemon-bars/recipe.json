@@ -1,0 +1,73 @@
+{
+  "source": "https://cooking.nytimes.com/recipes/6960-pistachio-lemon-bars",
+  "rating": 9,
+  "name": "Pistacho-Lemon Bars",
+  "notes": ["Very good. 3rd in baking competition. Followed the recipe as is."],
+  "tags": ["dessert"],
+  "ingredients": [
+    {
+      "ingredient": "*Crust Ingredients:*",
+      "quantity": ""
+    },
+    {
+      "ingredient": "all-purpose flour",
+      "quantity": "1c"
+    },
+    {
+      "ingredient": "confectioners' sugar",
+      "quantity": "0.25c"
+    },
+    {
+      "ingredient": "teaspoon kosher salt",
+      "quantity": "0.25 tsp"
+    },
+    {
+      "ingredient": "cold, unsalted butter, cut into small pieces",
+      "quantity": "0.5c"
+    },
+    {
+      "ingredient": "shelled unsalted pistachios, roughly chopped",
+      "quantity": "0.25c"
+    },
+    {
+      "ingredient": "*Filling Ingredients:*",
+      "quantity": ""
+    },
+    {
+      "ingredient": "eggs",
+      "quantity": "2"
+    },
+    {
+      "ingredient": "sugar",
+      "quantity": "1c"
+    },
+    {
+      "ingredient": "teaspoon baking powder",
+      "quantity": "0.5 tsp"
+    },
+    {
+      "ingredient": "all-purpose flour",
+      "quantity": "2 tbsp"
+    },
+    {
+      "ingredient": "teaspoon grated lemon zest",
+      "quantity": "1 tsp"
+    },
+    {
+      "ingredient": "fresh lemon juice",
+      "quantity": "4 tbsp"
+    },
+    {
+      "ingredient": "shelled unsalted pistachios",
+      "quantity": "0.33c"
+    },
+    {
+      "ingredient": "Confectioners' sugar, for garnish",
+      "quantity": ""
+    }
+  ],
+  "steps": [
+    "To make crust, preheat oven to 350 degrees. Line an 8-inch square pan with parchment paper (if using foil, lightly butter it). Place flour, sugar and salt in a food processor and pulse a few times. Add butter and process until well combined. Stir in chopped pistachios. Firmly press mixture into the bottom of the lined pan using the flat bottom of a glass or measuring cup (if it sticks, place a piece of parchment paper on the dough before pressing). Bake until lightly browned, about 20 minutes.",
+    "Meanwhile, whisk together the filling ingredients. When the crust is baked, pour the filling into the pan and bake until set, about 20 minutes. Let cool completely. Sprinkle with confectioners' sugar and cut into 2-inch squares."
+  ]
+}

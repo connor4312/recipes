@@ -1,0 +1,62 @@
+{
+  "name": "Pressure-Cooker Miso Risotto Recipe",
+  "rating": 9,
+  "notes": [
+    "Quite good, but strong miso flavor can wear after a few days, consider 'remixing' leftovers if >3 days",
+    "More shallots doesn't hurt",
+    "I wasn't 21 when I made this, so I omitted the sake. It was good without, but might be better with :P"
+  ],
+  "source": "https://www.seriouseats.com/recipes/2015/10/print/pressure-cooker-miso-risotto-recipe.html",
+  "tags": ["pressure-cooker", "vegetarian"],
+  "ingredients": [
+    {
+      "ingredient": "olive oil",
+      "quantity": "6 tbsp"
+    },
+    {
+      "ingredient": "shallot",
+      "quantity": "1 medium"
+    },
+    {
+      "ingredient": "cloves garlic",
+      "quantity": "3 cloves"
+    },
+    {
+      "ingredient": "risotto rice, such as Arborio or Vialone Nano",
+      "quantity": "2c"
+    },
+    {
+      "ingredient": "dry sake",
+      "quantity": "0.75c"
+    },
+    {
+      "ingredient": "soy sauce",
+      "quantity": "2 tsp"
+    },
+    {
+      "ingredient": "white or yellow miso paste",
+      "quantity": "0.25c"
+    },
+    {
+      "ingredient": "chicken or vegetable stock",
+      "quantity": "4c"
+    },
+    {
+      "ingredient": "lemon juice",
+      "quantity": "0.5tsp"
+    },
+    {
+      "ingredient": "salt"
+    },
+    {
+      "ingredient": "Chives or scallions (garnish)"
+    }
+  ],
+  "steps": [
+    "Heat olive oil in a pressure cooker over medium-high heat, stirring and swirling pan until shimmering. Add shallot and garlic and cook, stirring, until translucent but not browned, about 2 minutes.",
+    "Add rice and cook, stirring, until rice is evenly coated in oil and toasted but not browned, 3 to 4 minutes. (Rice grains should start to look like tiny ice cubes: translucent around the edges and cloudy in the center.)",
+    "Add sake and cook, stirring, until raw alcohol smell has cooked off and wine has almost fully evaporated, about 2 minutes. Stir in soy sauce and miso paste.",
+    "Add stock and scrape any grains of rice or pieces of shallot or garlic from the sides of the pressure cooker so that they are fully submerged. Close pressure cooker and bring up to low pressure (10 psi on most units). Cook at low pressure for 5 minutes, then depressurize cooker, either by using the steam-release valve (if it has one) or running it under cold water (if it does not; do not run an electric pressure cooker under running water).",
+    "Open pressure cooker, add lemon juice, and stir to combine rice and cooking liquid; it should begin to form a creamy consistency. If risotto is too soupy, cook for a few minutes longer, stirring, until it begins to thicken more; it should look like a smooth, creamy sauce. Season to taste with salt (if necessary), stir in chives or scallions, and serve immediately."
+  ]
+}

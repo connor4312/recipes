@@ -1,0 +1,62 @@
+{
+  "notes": ["Good, easy meal prep. Used Trader Joe's red lentil pasta. Mixed in brussel sprouts and misc veggies."],
+  "rating": 6,
+  "name": "Sheet-Pan Spicy Roasted Broccoli Pasta",
+  "source": "https://cooking.nytimes.com/recipes/1018580-sheet-pan-spicy-roasted-broccoli-pasta",
+  "ingredients": [
+    {
+      "ingredient": "pounds broccoli, cut into bite-size florets",
+      "quantity": "2 ½"
+    },
+    {
+      "ingredient": "tablespoons extra-virgin olive oil, more as needed",
+      "quantity": "2"
+    },
+    {
+      "ingredient": "teaspoon cumin seeds (optional)",
+      "quantity": "1"
+    },
+    {
+      "ingredient": "teaspoon kosher salt, more as needed",
+      "quantity": "¾"
+    },
+    {
+      "ingredient": "teaspoon red pepper flakes, or to taste",
+      "quantity": "½"
+    },
+    {
+      "ingredient": "ounces chiocciole or other tube-shaped pasta",
+      "quantity": "12"
+    },
+    {
+      "ingredient": "cup grated Parmesan cheese",
+      "quantity": "⅓"
+    },
+    {
+      "ingredient": "cup panko bread crumbs",
+      "quantity": "⅓"
+    },
+    {
+      "ingredient": "tablespoon finely grated lemon zest",
+      "quantity": "1"
+    },
+    {
+      "ingredient": "teaspoon freshly ground black pepper",
+      "quantity": "½"
+    },
+    {
+      "ingredient": "ounces best quality, whole milk ricotta",
+      "quantity": "12"
+    },
+    {
+      "ingredient": "Fresh lemon juice, for serving (optional)",
+      "quantity": ""
+    }
+  ],
+  "steps": [
+    "Heat oven to 425 degrees. On a rimmed baking sheet, toss together broccoli, oil, cumin (if using), 3/4 teaspoon salt and the red pepper flakes. Roast until tender and browned at the edges, 18 to 25 minutes, tossing halfway through. Remove from oven and set oven to broil.",
+    "Meanwhile, bring a large pot of salted water to boil. Cook pasta according to package directions; drain.",
+    "In a small bowl, stir together Parmesan, panko, lemon zest, a pinch of salt and the black pepper.",
+    "Toss cooked pasta with broccoli on baking sheet. Season with salt and pepper to taste, then dollop with ricotta. Sprinkle with Parmesan mix, drizzle generously with oil, and broil until topping is crisped and golden, 2 to 3 minutes. Sprinkle with lemon juice to taste, and serve."
+  ]
+}

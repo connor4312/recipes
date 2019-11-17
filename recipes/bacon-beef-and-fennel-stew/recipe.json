@@ -1,0 +1,90 @@
+{
+  "name": "Bacon, Beef, and Fennel Stew",
+  "rating": 9,
+  "notes": [
+    "You can do this in a slow cooker or stovetop if you don’t have a pressure cooker.",
+    "Original quantities are from leftovers and things on sale, feel free to modify",
+    "I served with brown rice. You could also drop the cooking time to ~12 minutes, add a sturdy grain such as barley or farro, and cook on low pressure for an additional 4 minutes."
+  ],
+  "tags": ["pressure-cooker", "stew"],
+  "ingredients": [
+    {
+      "ingredient": "olive or avocado oil"
+    },
+    {
+      "ingredient": "stewing beef",
+      "quantity": "1lb"
+    },
+    {
+      "ingredient": "bacon ends",
+      "quantity": "0.5lb"
+    },
+    {
+      "ingredient": "salt",
+      "quantity": "2 tsp"
+    },
+    {
+      "ingredient": "black pepper",
+      "quantity": "1 tsp"
+    },
+    {
+      "ingredient": "onion, chopped",
+      "quantity": "0.5"
+    },
+    {
+      "ingredient": "garlic, minced",
+      "quantity": "4 cloves"
+    },
+    {
+      "ingredient": "dry red wine",
+      "quantity": "1c"
+    },
+    {
+      "ingredient": "cayenne",
+      "quantity": "1 tsp"
+    },
+    {
+      "ingredient": "ground nutmeg",
+      "quantity": "0.25 tsp"
+    },
+    {
+      "ingredient": "ground ginger",
+      "quantity": "0.25 tsp"
+    },
+    {
+      "ingredient": "Penzey’s “Fines Herbes” mix",
+      "quantity": "0.5 tbsp"
+    },
+    {
+      "ingredient": "leek",
+      "quantity": "1"
+    },
+    {
+      "ingredient": "head fennel, chopped",
+      "quantity": "1 miedum"
+    },
+    {
+      "ingredient": "sliced mushrooms",
+      "quantity": "12oz"
+    },
+    {
+      "ingredient": "diced fire-roasted tomatoes",
+      "quantity": "28oz"
+    },
+    {
+      "ingredient": "chicken broth",
+      "quantity": "2c"
+    },
+    {
+      "ingredient": "butternut squash, chopped",
+      "quantity": "2c"
+    }
+  ],
+  "steps": [
+    "Add oil to instant pot, add meat, season with salt and pepper, and brown on all sides",
+    "Add onions and garlic to pot, cook for a minute or two more",
+    "Deglaze with wine, simmer until the alcohol evaporates",
+    "Add the remaining ingredients and mix",
+    "Cook on high pressure for 15 minutes"
+  ]
+}

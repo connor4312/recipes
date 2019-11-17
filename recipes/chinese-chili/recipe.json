@@ -1,26 +1,26 @@
 {
-  "$schema": "../../support/recipe-schema.json",
   "name": "Chinese Chili",
   "rating": 7,
   "notes": [
     "Did not have Szechuan pepper at the time. Used 0.5 tbsp coriander seed and 1 tbsp pepper instead, turned out well",
     "Added 1c dried (rehydrated) pinto beans",
-    "Threw ingredients",
+    "Threw ingredients in instant pot on high for 10 minutes after browning meat",
     "Very spicy with the 2x jalapeno and habanero. Perhaps use a Thai pepper or Serano instead next time. If making for company, just 2x jalapenos would be fine"
   ],
   "source": "https://cooking.nytimes.com/recipes/1016019-chinese-chili",
+  "tags": ["pressure-cooker", "chili"],
   "ingredients": [
     {
       "ingredient": "pounds lean brisket",
       "quantity": "2"
     },
     {
-      "ingredient": "cup soy sauce, more to taste",
-      "quantity": "¼"
+      "ingredient": "soy sauce, more to taste",
+      "quantity": "0.25 cup"
     },
     {
-      "ingredient": "cup hoisin sauce",
-      "quantity": "¼"
+      "ingredient": "hoisin sauce",
+      "quantity": "0.25 cup"
     },
     {
       "ingredient": "large onions, finely chopped",
@@ -47,32 +47,32 @@
       "quantity": "1"
     },
     {
-      "ingredient": "tablespoon Sichuan peppercorns, crushed in a mortar",
-      "quantity": "1"
+      "ingredient": "Sichuan peppercorns, crushed in a mortar",
+      "quantity": "1 tbsp"
     },
     {
-      "ingredient": "tablespoon five-spice powder",
-      "quantity": "1"
+      "ingredient": "five-spice powder",
+      "quantity": "1 tbsp"
     },
     {
-      "ingredient": "ounces beer, preferably amber ale",
-      "quantity": "12"
+      "ingredient": "beer, preferably amber ale",
+      "quantity": "12oz"
     },
     {
-      "ingredient": "14-ounce can whole San Marzano tomatoes, crushed",
-      "quantity": "1"
+      "ingredient": "can crushed tomatoes",
+      "quantity": "14oz"
     },
     {
-      "ingredient": "tablespoon rice vinegar",
-      "quantity": "1"
+      "ingredient": "rice vinegar",
+      "quantity": "1 tbsp"
     },
     {
       "ingredient": "Chinese hot chile oil",
       "quantity": ""
     },
     {
-      "ingredient": "tablespoons finely chopped cilantro",
-      "quantity": "2"
+      "ingredient": "finely chopped cilantro",
+      "quantity": "2 tbsp"
     }
   ],
   "steps": [

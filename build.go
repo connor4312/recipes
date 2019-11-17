@@ -86,7 +86,7 @@ func main() {
 	fmt.Printf("discovered %d recipes\r\n", len(recipes))
 
 	var wg sync.WaitGroup
-	wg.Add(len(recipes))
+	wg.Add(len(recipes) + 1)
 
 	go func() {
 		if err := writeHome(recipes); err != nil {
@@ -139,7 +139,7 @@ func gatherRecipes() (recipes []*Recipe, err error) {
 		recipes = append(recipes, recipe)
 	}
 
-	sort.Slice(recipes, func(i, j int) bool { return recipes[i].Rating < recipes[j].Rating })
+	sort.Slice(recipes, func(i, j int) bool { return recipes[i].Rating >= recipes[j].Rating })
 
 	return recipes, nil
 }

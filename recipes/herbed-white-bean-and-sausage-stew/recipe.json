@@ -1,0 +1,74 @@
+{
+  "name": "Herbed White Bean and Sausage Stew",
+  "rating": 8,
+  "notes": ["Good stuff. Comfort food. Made a while ago, don't recall modifications."],
+  "tags": ["stew"],
+  "source": "https://cooking.nytimes.com/recipes/1013327-herbed-white-bean-and-sausage-stew",
+  "ingredients": [
+    {
+      "ingredient": "tablespoons extra virgin olive oil, more for serving",
+      "quantity": "2"
+    },
+    {
+      "ingredient": "pound sweet Italian sausage, sliced 3/4-inch thick",
+      "quantity": "1"
+    },
+    {
+      "ingredient": "tablespoon tomato paste",
+      "quantity": "1"
+    },
+    {
+      "ingredient": "teaspoon ground cumin",
+      "quantity": "½"
+    },
+    {
+      "ingredient": "medium carrots, finely diced",
+      "quantity": "2"
+    },
+    {
+      "ingredient": "celery stalks, finely diced",
+      "quantity": "2"
+    },
+    {
+      "ingredient": "onion, chopped",
+      "quantity": "1"
+    },
+    {
+      "ingredient": "garlic cloves, finely chopped",
+      "quantity": "2"
+    },
+    {
+      "ingredient": "pound dried Great Northern beans, rinsed and picked through",
+      "quantity": "1"
+    },
+    {
+      "ingredient": "teaspoons kosher salt, or to taste",
+      "quantity": "2"
+    },
+    {
+      "ingredient": "thyme sprigs",
+      "quantity": "2"
+    },
+    {
+      "ingredient": "large rosemary sprig",
+      "quantity": "1"
+    },
+    {
+      "ingredient": "bay leaf",
+      "quantity": "1"
+    },
+    {
+      "ingredient": "teaspoons balsamic vinegar, more for serving",
+      "quantity": "2"
+    },
+    {
+      "ingredient": "teaspoon ground black pepper, more to taste",
+      "quantity": "½"
+    }
+  ],
+  "steps": [
+    "Heat the oil in a large stockpot over medium-high heat. Add the sausage and brown until cooked through, about 7 minutes. Using a slotted spoon, transfer to a plate lined with a paper towel.",
+    "Add the tomato paste and cumin to the pot. Cook, stirring, until dark golden, about 2 minutes. Add the carrots, celery, onion and garlic. Cook, stirring, until the vegetables have softened, about 5 minutes. Stir in the beans, 8 cups water, salt, thyme, rosemary and bay leaf. Turn the heat up to high and bring to a boil. Then reduce heat to low and simmer gently until the beans are tender, about 2 hours, adding more water if needed to make sure the beans remain submerged.",
+    "When the beans are tender, return the sausage to the pot. Simmer for 5 minutes. Stir in the vinegar and pepper. Taste and adjust seasoning. Ladle into warm bowls and serve drizzled with additional vinegar and olive oil."
+  ]
+}

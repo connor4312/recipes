@@ -2,7 +2,7 @@
   "definitions": {},
   "$schema": "http://json-schema.org/draft-07/schema#",
   "type": "object",
-  "required": ["ingredients", "steps", "name"],
+  "required": ["ingredients", "steps", "name", "tags"],
   "properties": {
     "name": {
       "type": "string"
@@ -21,11 +21,26 @@
       "type": "string",
       "format": "url"
     },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "pressure-cooker",
+          "dessert",
+          "stew",
+          "curry",
+          "vegetarian",
+          "pasta",
+          "chili"
+        ]
+      }
+    },
     "ingredients": {
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["ingredient", "quantity"],
+        "required": ["ingredient"],
         "properties": {
           "ingredient": {
             "type": "string"

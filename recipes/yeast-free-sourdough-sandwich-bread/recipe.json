@@ -1,0 +1,44 @@
+{
+  "name": "Yeast-Free Sourdough Sandwich Bread",
+  "rating": 7,
+  "source": "https://holycowvegan.net/best-sourdough-sandwich-bread-yeast-free/",
+  "notes": [
+    "Modified from original source",
+    "Makes a nice firm sandwhich bread. Tastes good. It's bread, what more do you want?"
+  ],
+  "tags": ["bread", "sourdough"],
+  "ingredients": [
+    {
+      "ingredient": "awakened sourdough starter",
+      "quantity": "1.5c"
+    },
+    {
+      "ingredient": "lukewarm water",
+      "quantity": "2c"
+    },
+    {
+      "ingredient": "whole wheat flour",
+      "quantity": "1c"
+    },
+    {
+      "ingredient": "all-purpose flour",
+      "quantity": "4-5c"
+    },
+    {
+      "ingredient": "olive oil",
+      "quantity": "1 tbsp"
+    },
+    {
+      "ingredient": "salt",
+      "quantity": "2 tsp"
+    }
+  ],
+  "steps": [
+    "Mix all ingredients, and knead to appropriate level and firmness (4-5 minutes).",
+    "Shape into a ball and place in an oiled bowl, turning the ball of dough around once to coat the top with oil.",
+    "Cover tightly and place in a warm spot (like an oven with the light turned on) for at least two hours or until the dough has doubled, or in fridge for 12-24 hours.",
+    "Remove dough from bowl, and form into two loaves. Place loaves into two prepared pans. Cover with a kitchen towel and let them stand in a warm place for at least two hours (~four hours, if coming from fridge) or until the dough rises above the top of the loaf pans.",
+    "Bake at 425 degrees for 45 minutes.",
+    "Remove from oven and let cool before slicing."
+  ]
+}

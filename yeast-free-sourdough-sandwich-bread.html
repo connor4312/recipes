@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Work+Sans&display=swap" rel="stylesheet">
+
+  <title>Yeast-Free Sourdough Sandwich Bread</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    body {
+      font-family: 'Work Sans', sans-serif;
+    }
+
+    .wrapper {
+      max-width: 1024px;
+      margin: 0 auto 100px;
+    }
+
+    a {
+      color: currentColor;
+      text-decoration: underline;
+    }
+
+    a:hover {
+      text-decoration: none;
+    }
+
+    h1,
+    h2,
+    th {
+      font-weight: normal;
+      font-family: 'Playfair Display', serif;
+    }
+
+    h1 .subtitle {
+      display: block;
+      font-size: 0.3em;
+      font-family: 'Work Sans', sans-serif;
+    }
+
+    h1 .subtitle span + span::before {
+      content: '/';
+      margin: 0 0.5em;
+    }
+
+    h1 {
+      font-size: 3rem;
+      text-align: center;
+      margin: 5rem 2rem 2rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid black;
+    }
+
+    h2 {
+      font-size: 2rem;
+      margin: 2rem 0 1rem;
+    }
+
+    li {
+      margin: 1rem 0 1rem 2rem;
+    }
+
+    li.done {
+      opacity: 0.5;
+    }
+
+    li,
+    p {
+      line-height: 1.2;
+    }
+
+    .home p,
+    .home table {
+      max-width: 640px;
+      margin: 0 auto;
+      margin-bottom: 1em;
+    }
+
+    .home table {
+      width: 100%;
+    }
+
+    .home table th {
+      text-align: left;
+      font-size: 1.3rem;
+    }
+
+    .home table th:first-child,
+    .home table td:first-child {
+      width: 100px;
+      text-align: center;
+    }
+
+    .opening {
+      display: flex;
+      flex-direction: row;
+    }
+
+    .opening .ingredients {
+      width: 33%;
+      min-width: 400px;
+    }
+
+    .opening .image {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 64px;
+    }
+
+    .opening .image img {
+      max-width: 100%;
+      border-radius: 3px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="wrapper">
+    <h1>Yeast-Free Sourdough Sandwich Bread
+  <small class="subtitle">
+    
+    <span>Rated 7/10</span>
+    
+    
+    <span><a href="https://holycowvegan.net/best-sourdough-sandwich-bread-yeast-free/">holycowvegan.net</a></span>
+    
+  </small>
+</h1>
+
+
+<div class="opening">
+  <div class="ingredients">
+    <h2>Ingredients</h2>
+    <ul>
+      
+      <li>1.5c awakened sourdough starter</li>
+      
+      <li>2c lukewarm water</li>
+      
+      <li>1c whole wheat flour</li>
+      
+      <li>4-5c all-purpose flour</li>
+      
+      <li>1 tbsp olive oil</li>
+      
+      <li>2 tsp salt</li>
+      
+    </ul>
+  </div>
+  
+  <div class="image">
+    <img src="yeast-free-sourdough-sandwich-bread.jpg" alt="Yeast-Free Sourdough Sandwich Bread" />
+  </div>
+  
+</div>
+
+<h2>Steps</h2>
+<ol>
+  
+  <li>Mix all ingredients, and knead to appropriate level and firmness (4-5 minutes).</li>
+  
+  <li>Shape into a ball and place in an oiled bowl, turning the ball of dough around once to coat the top with oil.</li>
+  
+  <li>Cover tightly and place in a warm spot (like an oven with the light turned on) for at least two hours or until the dough has doubled, or in fridge for 12-24 hours.</li>
+  
+  <li>Remove dough from bowl, and form into two loaves. Place loaves into two prepared pans. Cover with a kitchen towel and let them stand in a warm place for at least two hours (~four hours, if coming from fridge) or until the dough rises above the top of the loaf pans.</li>
+  
+  <li>Bake at 425 degrees for 45 minutes.</li>
+  
+  <li>Remove from oven and let cool before slicing.</li>
+  
+</ol>
+
+
+<h2>Notes</h2>
+<ol>
+  
+  <li><p>Modified from original source</p>
+</li>
+  
+  <li><p>Makes a nice firm sandwhich bread. Tastes good. It&rsquo;s bread, what more do you want?</p>
+</li>
+  
+</ol>
+
+
+  </div>
+
+  <script>
+    const toggleClass = (el, cls) => el.classList.contains(cls) ? el.classList.remove(cls) : el.classList.add(cls);
+    for (const el of document.querySelectorAll('li')) {
+      el.addEventListener('click', () => toggleClass(el, 'done'));
+    }
+  </script>
+</body>
+
+</html>

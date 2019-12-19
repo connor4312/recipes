@@ -10,7 +10,7 @@
     },
     {
       "type": "shell",
-      "command": "build.exe",
+      "command": "${workspaceFolder}/build.exe",
       "label": "Build Site",
       "dependsOn": "Build Generator",
       "group": {

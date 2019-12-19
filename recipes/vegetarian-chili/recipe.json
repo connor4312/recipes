@@ -1,0 +1,92 @@
+{
+  "name": "Vegetarian Chili",
+  "notes": [
+    "This makes a medium-spiced chili. Peppers can be adjusted per taste",
+    "The beans don't need to be re-hydrated prior to cooking, but if you do, you can drop the cook time to around 10 minutes"
+  ],
+  "rating": 8,
+  "tags": ["chili", "vegetarian"],
+  "ingredients": [
+    {
+      "ingredient": "yellow onion, large, diced",
+      "quantity": "1"
+    },
+    {
+      "ingredient": "red wine",
+      "quantity": "1c"
+    },
+    {
+      "ingredient": "garlic, diced",
+      "quantity": "4 cloves"
+    },
+    {
+      "ingredient": "large red bell pepper, chopped",
+      "quantity": "1"
+    },
+    {
+      "ingredient": "stalks celery, diced",
+      "quantity": "2"
+    },
+    {
+      "ingredient": "canned diced tomatoes (prefer good quality/fire-roasted)",
+      "quantity": "28oz"
+    },
+    {
+      "ingredient": "dried pinto beans",
+      "quantity": "1.25c"
+    },
+    {
+      "ingredient": "dried red kidney beans",
+      "quantity": "1.25c"
+    },
+    {
+      "ingredient": "small sweet potato, diced",
+      "quantity": "1"
+    },
+    {
+      "ingredient": "vegetable stock",
+      "quantity": "3c"
+    },
+    {
+      "ingredient": "salt",
+      "quantity": "1 tsp"
+    },
+    {
+      "ingredient": "black pepper",
+      "quantity": "1 tsp"
+    },
+    {
+      "ingredient": "chili powder",
+      "quantity": "1.5 tbsp"
+    },
+    {
+      "ingredient": "ground cumin",
+      "quantity": "1 tsp"
+    },
+    {
+      "ingredient": "ground coriander",
+      "quantity": "1.5 tsp"
+    },
+    {
+      "ingredient": "smoked paprika",
+      "quantity": "2 tsp"
+    },
+    {
+      "ingredient": "oregano",
+      "quantity": "1.5 tsp"
+    },
+    {
+      "ingredient": "rosemary",
+      "quantity": "1.5 tsp"
+    },
+    {
+      "ingredient": "bay leaf",
+      "quantity": "2"
+    }
+  ],
+  "steps": [
+    "Saute minced onions in pressure cooker until translucent, about five minutes.",
+    "Deglaze with wine, and simmer until alchohol evaporates, about two minutes.",
+    "Add remaining ingredients to the pressure cooker. Fill with vegetable stock until it is about a half inch above the level of the dry ingredients (the dried beans will soak much of this up). Cook on high pressure for 15 minutes."
+  ]
+}
